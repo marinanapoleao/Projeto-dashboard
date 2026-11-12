@@ -23,7 +23,7 @@ Usar o Looker Studio, uma das ferramentas de BI mais usadas no mercado, para tra
 
 ## 📌 Sobre o Projeto
 
-Utilizar a mesma base de dados de vendas de jogos. O desafio é recriar, no Power BI e no Looker Studio, um dashboard com os mesmos indicadores: volume de vendas por país, vendas por categoria, por gênero e por publisher.
+Utilizar a mesma base de dados de vendas de jogos. O desafio é recriar, no Power BI, um dashboard com os mesmos indicadores: volume de vendas por país, vendas por categoria, por gênero e por publisher.
 
 ## 🎯 Objetivo
 
