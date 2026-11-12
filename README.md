@@ -1,3 +1,24 @@
+# Projeto dashboard no Looker Studio
+
+## 📌 Sobre o Projeto
+
+Usar o Looker Studio, uma das ferramentas de BI mais usadas no mercado, para transformar uma base bruta de vendas de jogos em um dashboard funcional e visualmente adequado ao tema do produto analisado.
+
+## 🎯 Objetivo
+
+- Conectar uma base de dados externa a uma ferramenta de BI (Looker Studio)
+- Construir visualizações segmentadas por diferentes dimensões (país, categoria, gênero, publisher)
+- Organizar um dashboard com hierarquia visual clara entre múltiplos indicadores
+- Aplicar identidade visual coerente com o contexto do produto analisado
+
+## 🔍 Metodologia
+
+- Dashboard no Looker Studio com visualização do volume de vendas por país
+- Visualização das vendas por categoria
+- Visualização das vendas por gênero
+- Visualização das vendas por publisher
+
+# Projeto dashboard no Power BI
 
 
 ## 📌 Sobre o Projeto
@@ -18,20 +39,4 @@ Utilizar a mesma base de dados de vendas de jogos. O desafio é recriar, no Powe
 - Comparar na prática as diferenças e semelhanças entre Looker Studio e Power BI
 - Organizar um dashboard funcional mesmo dentro das limitações da versão gratuita da ferramenta
 
-## 📌 Sobre o Projeto
 
-Usar o Looker Studio, uma das ferramentas de BI mais usadas no mercado, para transformar uma base bruta de vendas de jogos em um dashboard funcional e visualmente adequado ao tema do produto analisado.
-
-## 🎯 Objetivo
-
-- Conectar uma base de dados externa a uma ferramenta de BI (Looker Studio)
-- Construir visualizações segmentadas por diferentes dimensões (país, categoria, gênero, publisher)
-- Organizar um dashboard com hierarquia visual clara entre múltiplos indicadores
-- Aplicar identidade visual coerente com o contexto do produto analisado
-
-## 🔍 Metodologia
-
-- Dashboard no Looker Studio com visualização do volume de vendas por país
-- Visualização das vendas por categoria
-- Visualização das vendas por gênero
-- Visualização das vendas por publisher
